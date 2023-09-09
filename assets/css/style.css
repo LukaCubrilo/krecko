@@ -1,0 +1,97 @@
+body {
+  font-family: "Oswald", sans-serif !important;
+}
+
+header .search {
+  border-radius: 25px;
+}
+
+#sredina {
+  height: 350px;
+  background-image: url(/assets/img/sredina.jpg);
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  position: relative;
+  filter: blur(3px);
+}
+
+.naslov {
+  font-weight: 500 !important;
+}
+
+.tekst {
+  font-weight: 300 !important;
+}
+
+.row {
+  width: 80%;
+  margin: 0px auto !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.card {
+  transition: 0.2s ease-in-out;
+}
+
+.slika img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.slika {
+  align-items: center;
+}
+
+.card:hover {
+  scale: 1.1;
+}
+
+.card img {
+  border-radius: 5px;
+}
+
+.card-body {
+  border-radius: 5px;
+}
+
+.tim {
+  width: 100%;
+}
+
+.tim img {
+  width: 100%;
+}
+
+.razmak {
+  margin-top: 50px !important;
+}
+
+.crna {
+  background-color: #272727;
+  color: #fff;
+}
+
+.crna a {
+  color: #fff;
+  font-size: 35px;
+}
+
+.slika-autor img {
+  width: 75%;
+  margin-top: 45px;
+  border-radius: 5px;
+}
+
+.form-block .btn:hover {
+  background-color: #272727;
+  color: #fff;
+}
+
+.but .btn:hover {
+  background-color: #272727;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */

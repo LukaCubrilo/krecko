@@ -1,0 +1,13 @@
+@media screen and (max-width:1025px) {
+    .row{
+        width: 100%;
+    }
+}
+@media screen and (max-width:426px){
+    #sredina{
+        height: 200px;
+    }
+    .slika-autor img{
+        margin-top: 15px;
+    }
+}
