@@ -6,13 +6,13 @@ header .search {
   border-radius: 25px;
 }
 
-#sredina {
+.slika-sredina img {
+  width: 100%;
+}
+
+.slika-sredina {
   height: 350px;
-  background-image: url(/assets/img/sredina.jpg);
-  background-size: cover;
-  background-position: top;
-  background-attachment: fixed;
-  position: relative;
+  overflow: hidden;
   filter: blur(3px);
 }
 
